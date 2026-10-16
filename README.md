@@ -8,7 +8,7 @@
 
 ![촌장과 대화](img/village-dialogue.png)
 
-![숲 탐색](img/forest.png)
+![화산 필드](img/volcano.png)
 
 ## 다운로드 및 적용 방법
 
